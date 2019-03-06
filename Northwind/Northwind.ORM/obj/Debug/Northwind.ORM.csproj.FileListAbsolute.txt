@@ -1,0 +1,6 @@
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.ORM\bin\Debug\Northwind.ORM.dll
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.ORM\bin\Debug\Northwind.ORM.pdb
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.ORM\obj\Debug\Northwind.ORM.csprojAssemblyReference.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.ORM\obj\Debug\Northwind.ORM.csproj.CoreCompileInputs.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.ORM\obj\Debug\Northwind.ORM.dll
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.ORM\obj\Debug\Northwind.ORM.pdb

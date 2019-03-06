@@ -1,0 +1,14 @@
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.WinForm\bin\Debug\Northwind.WinForm.exe.config
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.WinForm\bin\Debug\Northwind.WinForm.exe
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.WinForm\bin\Debug\Northwind.WinForm.pdb
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.WinForm\bin\Debug\Northwind.ORM.dll
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.WinForm\bin\Debug\Northwind.ORM.pdb
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.WinForm\obj\Debug\Northwind.WinForm.csprojAssemblyReference.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.WinForm\obj\Debug\Northwind.WinForm.Properties.Resources.resources
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.WinForm\obj\Debug\Northwind.WinForm.csproj.GenerateResource.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.WinForm\obj\Debug\Northwind.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.WinForm\obj\Debug\Northwind.WinForm.csproj.CopyComplete
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.WinForm\obj\Debug\Northwind.WinForm.exe
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.WinForm\obj\Debug\Northwind.WinForm.pdb
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.WinForm\obj\Debug\Northwind.WinForm.MainForm.resources
+C:\Users\Tuncay\Google Drive\Suskunlar001\AdoNet\Northwind\Northwind.WinForm\obj\Debug\Northwind.WinForm.UrunForm.resources
